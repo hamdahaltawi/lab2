@@ -17,6 +17,7 @@ public class Lab2251 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("helloe world ");
+        System.out.println("Hello dania");
     }
     
 }
